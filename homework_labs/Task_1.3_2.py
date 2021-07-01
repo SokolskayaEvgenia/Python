@@ -15,8 +15,4 @@ for x in range (1,m+1):
 a= np.reshape(a,(m,n))
 print(a)
 
-"""for i in range(m):
-    row = input().split()
-    for i in range(len(row)):
-        row[i] = int(row[i])
-    A.append(row)"""
+
